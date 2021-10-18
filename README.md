@@ -9,4 +9,4 @@ There is an optimized solution as well which solves the problem in a single pass
 
 ## Testing
 
-the main_test.go files contains tests try to cover all of the paths. Run `go test` to run it.
+the main_test.go files contains tests that try to cover all of the paths. Run `go test` to run the tests.
